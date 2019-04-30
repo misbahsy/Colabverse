@@ -61,3 +61,19 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 ### Using Accelerated Hardware
 - [TensorFlow with GPUs](https://colab.research.google.com/notebooks/gpu.ipynb)
 - [TensorFlow with TPUs](https://colab.research.google.com/notebooks/tpu.ipynb)
+
+### Colab Notebooks From Google Seedbank
+- [Lab 1: Loading and Understanding Your Data](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_1__Loading_and_Understanding_Your_Data.ipynb) by Sally Goldman
+- [Lab 2: Training Your First TF Linear Regression Model] (https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_2__Training_Your_First_TF_Linear_Regression_Model.ipynb) by Sally Goldman
+- [Lab 3: Using Multiple Numerical Features and Feature Scaling](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_3__Using_Multiple_Numerical_Features_and_Feature_Scaling.ipynb) by Sally Goldman
+- [Lab 4: Using Bucketized Numerical Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_4__Using_a_Bucketized_Numerical_Feature.ipynb) by Sally Goldman
+- [Lab 5: Using Categorical Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_5__Using_Categorical_Features.ipynb) by Sally Goldman
+- [Lab 6: Creating Validation Data](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_6__Creating_Validation_Data.ipynb) by Sally Goldman
+- [Lab 7: Feature Engineering - Creating Synthetic Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_7__Feature_Engineering_-_Creating_Synthetic_Features.ipynb) by Sally Goldman
+- [Lab 8: Training a Linear Classifier With Numerical and Categorical Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_8__Training_a_Linear_Classifier_with_Numerical_and_Categorical_Features.ipynb) by Sally Goldman
+- [Lab 9: Bucketized Features Using Quantiles and Feature Crosses](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_9__Bucketized_Features_Using_Quantiles_and_Feature_Crosses.ipynb) by Sally Goldman
+
+- [Neural Translation with Attention](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb) 
+- [Pix2Pix with Eager execution](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/pix2pix/pix2pix_eager.ipynb)
+- [GAN Synth](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)
+- [Fashion MNIST with Keras and TPUs](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/fashion_mnist.ipynb)

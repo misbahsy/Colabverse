@@ -157,3 +157,10 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Data I/O in Colab](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb)
 - [Fibonacci Number generator and Conway's game of life using TF Autograph.](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/algorithms.ipynb)
 - [Universal Sentence Encoder](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/semantic_similarity_with_tf_hub_universal_encoder.ipynb)
+- [Cloud TPU Template](https://colab.research.google.com/github/GoogleCloudPlatform/cloudml-samples/blob/master/tpu/templates/tpu_estimator/trainer.ipynb) by Yu-Han Liu
+- [Categorize Iris flowers by species](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/eager/custom_training_walkthrough.ipynb)
+- [Lucid: A Quick Tutorial](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/tutorial.ipynb?sandboxMode=true) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [Charts in Colab](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/charts.ipynb)
+- [Intro to Neural Networks](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/intro_to_neural_nets.ipynb)
+- [Colab basics: Cells](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/basic_features_overview.ipynb)
+- [Model Validation](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/validation.ipynb)

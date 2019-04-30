@@ -64,7 +64,7 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 
 ### Colab Notebooks From Google Seedbank
 - [Lab 1: Loading and Understanding Your Data](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_1__Loading_and_Understanding_Your_Data.ipynb) by Sally Goldman
-- [Lab 2: Training Your First TF Linear Regression Model] (https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_2__Training_Your_First_TF_Linear_Regression_Model.ipynb) by Sally Goldman
+- [Lab 2: Training Your First TF Linear Regression Model](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_2__Training_Your_First_TF_Linear_Regression_Model.ipynb) by Sally Goldman
 - [Lab 3: Using Multiple Numerical Features and Feature Scaling](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_3__Using_Multiple_Numerical_Features_and_Feature_Scaling.ipynb) by Sally Goldman
 - [Lab 4: Using Bucketized Numerical Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_4__Using_a_Bucketized_Numerical_Feature.ipynb) by Sally Goldman
 - [Lab 5: Using Categorical Features](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_5__Using_Categorical_Features.ipynb) by Sally Goldman
@@ -77,3 +77,14 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Pix2Pix with Eager execution](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/pix2pix/pix2pix_eager.ipynb)
 - [GAN Synth](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)
 - [Fashion MNIST with Keras and TPUs](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/fashion_mnist.ipynb)
+- [Variational auto-encoder for music.](https://colab.research.google.com/notebooks/magenta/music_vae/music_vae.ipynb) by Adam Roberts and Jesse Engel
+- [GAN Synthesizer](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb) by Jesse Engel
+- [Neural Style Transfer with tf.keras](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
+- [Introduction to ML Fairness](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/cc/exercises/intro_to_fairness.ipynb)
+- [Convolutional VAE](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/cvae.ipynb)
+- [E-Z NSynth](https://colab.research.google.com/notebooks/magenta/nsynth/nsynth.ipynb) by Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, Mohammad Norouzi
+- [Performance RNN](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/magenta/performance_rnn/performance_rnn.ipynb) by Ian Simon, Sageev Oore, Curtis Hawthorne
+- [Spatial/Channel Attribution](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/AttrSpatial.ipynb) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [Classifying Handwritten Digits](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
+- [Text generation using a RNN with eager execution](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/sequences/text_generation.ipynb)
+- [Piano Transcription](https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb) by Curtis Hawthorne, Erich Elsen, Jialin Song, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, Douglas Eck

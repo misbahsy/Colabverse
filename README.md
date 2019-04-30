@@ -88,3 +88,72 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Classifying Handwritten Digits](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/multi-class_classification_of_handwritten_digits.ipynb)
 - [Text generation using a RNN with eager execution](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/sequences/text_generation.ipynb)
 - [Piano Transcription](https://colab.research.google.com/notebooks/magenta/onsets_frames_transcription/onsets_frames_transcription.ipynb) by Curtis Hawthorne, Erich Elsen, Jialin Song, Adam Roberts, Ian Simon, Colin Raffel, Jesse Engel, Sageev Oore, Douglas Eck
+- [Improving Neural Net Performance](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/improving_neural_net_performance.ipynb)
+- [First Steps with TensorFlow](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/first_steps_with_tensor_flow.ipynb)
+- [3D Style transfer](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_3d.ipynb)
+- [AdaNet on TPU](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/adanet_tpu.ipynb) by Eugen Hotaj
+- [Semantic Dictionaries](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/SemanticDictionary.ipynb) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [Feature Inversion Caricatures with Lucid](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/misc/feature_inversion_caricatures.ipynb)
+- [Explanations of black-box models with Shapley Values](https://colab.research.google.com/drive/1m0lKA8NOroBHY2AK2iZtzk7hKizV5pM3#forceEdit=true&offline=true&sandboxMode=true) by Dimos Christopoulos
+- [Working with Tensors](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/creating_and_manipulating_tensors.ipynb)
+- [Dopamine: How to load and visualize the logs data produced by Dopamine.](https://colab.research.google.com/github/google/dopamine/blob/master/dopamine/colab/load_statistics.ipynb) by Pablo Samuel Castro
+- [Activation Atlas](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb) by Shan Carter
+- [Logistic Regression](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/logistic_regression.ipynb)
+- [Customizing AdaNet With TensorFlow Hub Modules](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/customizing_adanet_with_tfhub.ipynb) by Tracy Cui
+- [TensorFlow Programming Concepts](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/tensorflow_programming_concepts.ipynb)
+- [Colab GPU](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/gpu.ipynb)
+- [Part 1: The What-If Tool Comparing Two UCI Census Models](https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Model_Comparison.ipynb)
+- [Part 2: The What-If Tool Analyzing an Image Classifier](https://colab.research.google.com/github/PAIR-code/what-if-tool/blob/master/WIT_Smile_Detector.ipynb)
+- [Part 3: The What-If Tool Analyzing the COMPAS dataset](https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_COMPAS.ipynb)
+- [Part 4: The What-If Tool Comparing Text Toxicity Classifiers](https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Toxicity_Text_Model_Comparison.ipynb)
+- [Text classifier with TF-Hub](https://colab.research.google.com/github/tensorflow/hub/blob/master/docs/tutorials/text_classification_with_tf_hub.ipynb)
+- [Small Feature Sets](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/feature_sets.ipynb)
+- [Colab Widgets](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/widgets.ipynb)
+- [Generating semi-transparent Feature Visualizations](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/transparency.ipynb) by Alex Mordvintsev
+- [Synthetic Features and Outliers](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/synthetic_features_and_outliers.ipynb)
+- [Mobile Net](https://colab.research.google.com/github/tensorflow/models/blob/master/research/slim/nets/mobilenet/mobilenet_example.ipynb)
+- [Predict House Prices with tf.keras](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_regression.ipynb)
+- [Visualization Regularization](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/regularization.ipynb) by Chris Olah, Alexander Mordvintsev, Ludwig Schubert
+- [Post training optimization](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/lite/tutorials/post_training_quant.ipynb)
+- [Part 1: Building a Classifier Model From Scratch](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb)
+- [Part 2: Improving the Model using Data Augmentation and Dropout](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part2.ipynb)
+- [Part 3: Feature Extraction and Fine tuning](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part3.ipynb)
+- [Formatting text in Colaboratory.](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/markdown_guide.ipynb)
+- [AutoGraph: Easy control flow for graphs](https://colab.research.google.com/github/tensorflow/models/blob/master/samples/core/guide/autograph.ipynb)
+- [Classify movie reviews using tf.keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_text_classification.ipynb)
+- [Use BigQuery in Colab](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/bigquery.ipynb)
+- [Fashion MNIST with tf.keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_classification.ipynb)
+- [CycleGAN: Unpaired Image to Image Translation](https://colab.research.google.com/drive/1Enc-pKlP4Q3cimEBfcQv0B_6hUvjVL3o?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true) by Parag K. Mital
+- [Pretrained Word Embeddings](https://colab.research.google.com/notebook#fileId=1r8nZitVTd9grTGepUE04mu7eao_7dpnZ&forceEdit=true&offline=true&sandboxMode=true) by Chris Boudreaux
+- [Sparsity and L1 Regularization](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/sparsity_and_l1_regularization.ipynb)
+- [Match images using DELF and TF-Hub](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf_hub_delf_module.ipynb#scrollTo=f3nk38tIKytQ)
+- [Introduction to TensorFlow.js](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js) by Nikhil Thorat
+- [CharRNN](https://colab.research.google.com/drive/13Vr3PrDg7cc4OZ3W2-grLSVSf0RJYWzb#forceEdit=true&offline=true&sandboxMode=true) by Chris Boudreaux
+- [Using OpenGL with Colab Cloud GPUs](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/appendix/colab_gl.ipynb) by Alexander Mordvintsev
+- [Conversation AI's Pinned AUC Unintended Model Bias Demo](https://colab.research.google.com/github/conversationai/unintended-ml-bias-analysis/blob/master/unintended_ml_bias/pinned_auc_demo.ipynb) by Lucas Dixon, John Li, Jeffrey Sorensen, Nithum Thain, Lucy Vasserman
+- [Tensorflow: Hello World](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/hello_world.ipynb)
+- [TF-Hub Action Recognition Model](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/action_recognition_with_tf_hub.ipynb#scrollTo=h6W3FhoP3TxC)
+- [Style Transfer](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb)
+- [Audio Style Transfer](https://colab.research.google.com/drive/18_DckMGM-fsSthIqZI9sOAlY6I3plDLD?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true) by Parag K. Mital
+- [Image Captioning with Attention with tf.keras and eager](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/image_captioning_with_attention.ipynb)
+- [Unconditional Generative Models](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/latent_constraints/latentconstraints.ipynb) by Jesse Engel, Matthew Hoffman, Adam Roberts
+- [Teachable Machine](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) by Nikhil Thorat
+- [Using Nucleus and TensorFlow for DNA Sequencing Error Correction](https://colab.research.google.com/github/google/nucleus/blob/master/nucleus/examples/dna_sequencing_error_correction.ipynb)  by Gunjan Baid, Helen Li, Pi-Chuan Chang
+- [Teaching Machines to Draw](https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/jupyter-notebooks/Sketch_RNN.ipynb) by David Ha, Jonas Jongejan, Ian Johnson
+- [DeepDream](https://colab.research.google.com/drive/1DWcrN9WXni58MbddvlShX0wF_oeo8W_0#forceEdit=true&offline=true&sandboxMode=true) by Alex Mordvintsev
+- [DCGAN with tf.keras and eager](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
+- [Feature Crosses](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/feature_crosses.ipynb)
+- [Colab & Google Drive](https://colab.research.google.com/drive/1fGSIqOxib5n6qqCLhIAKUoPm6XOf_l8l?sandboxMode=true#forceEdit=true&offline=true&sandboxMode=true) by Mike Tyka
+- [Compare GAN](https://colab.research.google.com/github/google/compare_gan/blob/master/compare_gan/src/tfhub_models.ipynb)
+- [Tensor2Tensor: Translate from English to German with a pre-trained model](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/t2t/hello_t2t.ipynb) by Łukasz Kaiser
+- [Train SketchRNN, convert to TF.js](https://colab.research.google.com/github/tensorflow/magenta-demos/blob/master/jupyter-notebooks/Sketch_RNN_TF_To_JS_Tutorial.ipynb) by David Ha
+- [Generate Shakespeare using tf.keras](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/generative_examples/text_generation.ipynb)
+- [Negative Neurons - Feature Visualization](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/negative_neurons.ipynb) by Chris Olah, Alexander Mordvintsev, Ludwig Schubert
+- [Dopamine: How to create and train a custom agent](https://colab.research.google.com/github/google/dopamine/blob/master/dopamine/colab/agents.ipynb) by Pablo Samuel Castro
+- [3D Feature Visualization](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/texture_synth_3d.ipynb) by Alex Mordvintsev
+- [Generative Adversarial Network (GAN)](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf_hub_generative_image_module.ipynb)
+- [Neuron Groups](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/NeuronGroups.ipynb?sandboxMode=true) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [Lucid Modelzoo](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/modelzoo.ipynb)
+- [Data I/O in Colab](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/io.ipynb)
+- [Fibonacci Number generator and Conway's game of life using TF Autograph.](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/autograph/examples/notebooks/algorithms.ipynb)
+- [Universal Sentence Encoder](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/semantic_similarity_with_tf_hub_universal_encoder.ipynb)

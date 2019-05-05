@@ -62,7 +62,7 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [TensorFlow with GPUs](https://colab.research.google.com/notebooks/gpu.ipynb)
 - [TensorFlow with TPUs](https://colab.research.google.com/notebooks/tpu.ipynb)
 
-### Colab Notebooks From Google Seedbank
+## Colab Notebooks From Google Seedbank
 - [Lab 1: Loading and Understanding Your Data](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_1__Loading_and_Understanding_Your_Data.ipynb) by Sally Goldman
 - [Lab 2: Training Your First TF Linear Regression Model](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_2__Training_Your_First_TF_Linear_Regression_Model.ipynb) by Sally Goldman
 - [Lab 3: Using Multiple Numerical Features and Feature Scaling](https://colab.research.google.com/notebooks/intro_to_ml_semester_course/Spring2018/Lab_3__Using_Multiple_Numerical_Features_and_Feature_Scaling.ipynb) by Sally Goldman
@@ -181,9 +181,9 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Dopamine: How to visualize Dopamine data in Tensorboard from Colab](https://colab.research.google.com/github/google/dopamine/blob/master/dopamine/colab/tensorboard.ipynb) by Pablo Samuel Castro
 - [The AdaNet Algorithm](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/adanet_objective.ipynb) by Charles Weill
 
-### Interesting Notebooks from 'A gallery of interesting Jupyter Notebooks'
+## Interesting Notebooks from 'A gallery of interesting Jupyter Notebooks'
 
-#### Programming and Computer Science
+### Programming and Computer Science
 
 - [Automata and Computability using Jupyter](https://colab.research.google.com/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
 
@@ -198,8 +198,63 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Understanding evolutionary strategies and covariance matrix adaptation](https://colab.research.google.com/github/lmarti/evolutionary-computation-course/blob/master/AEC.04%20-%20Evolutionary%20Strategies%20and%20Covariance%20Matrix%20Adaptation.ipynb), from the [Advanced Evolutionary Computation: Theory and Practice](http://nbviewer.ipython.org/github/lmarti/evolutionary-computation-course/tree/master/) course by [Luis Martí](http://lmarti.com).
 -[Code Katas in Python](https://colab.research.google.com/github/gudnm/codekatas/blob/master/codekatas.ipynb), a collection of algorithmic and data structure exercises covering search and sorting algorithms, stacks, queues, linked lists, graphs, backtracking and greedy problems.
 
-## Statistics, Machine Learning and Data Science
+### Statistics, Machine Learning and Data Science
 
 - [Python Data Science Handbook Supplemental Materials](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
-- 
+
+#### Collection of material by [John Wittenauer](https://github.com/jdwittenauer)
+
+##### Language
+* [Introduction To Python](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/Intro.ipynb)
+* [IPython Magic Commands](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/language/IPythonMagic.ipynb)
+
+##### Libraries
+* [NumPy](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+* [SciPy](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb)
+* [Matplotlib](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+* [Pandas](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Pandas.ipynb)
+* [Statsmodels](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Statsmodels.ipynb)
+* [Scikit-learn](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb)
+* [Seaborn](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb)
+* [NetworkX](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NetworkX.ipynb)
+* [PyMC](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/PyMC.ipynb)
+* [NLTK](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NLTK.ipynb)
+* [DEAP](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/DEAP.ipynb)
+* [Gensim](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Gensim.ipynb)
+
+##### Machine Learning Exercises
+* [Exercise 1 - Linear Regression](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise1.ipynb)
+* [Exercise 2 - Logistic Regression](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise2.ipynb)
+* [Exercise 3 - Multi-Class Classification](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise3.ipynb)
+* [Exercise 4 - Neural Networks](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise4.ipynb)
+* [Exercise 6 - Support Vector Machines](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise6.ipynb)
+* [Exercise 7 - K-Means Clustering & PCA](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb)
+* [Exercise 8 - Anomaly Detection & Recommendation Systems](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise8.ipynb)
+
+##### Tensorflow Deep Learning Exercises
+* [Assignment 1 - Intro & Data Prep](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb)
+* [Assignment 2 - Regression & Neural Nets](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb)
+* [Assignment 3 - Regularization](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb)
+* [Assignment 4 - Convolutions](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb)
+* [Assignment 5 - Word Embeddings](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-5-Word2Vec.ipynb)
+* [Assignment 6 - Recurrent Nets](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-6-LSTM.ipynb)
+
+##### Fast.ai Lessons
+* [Lesson 1 - Image Classification](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb)
+* [Lesson 2 - Multi-label Classification](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson2.ipynb)
+* [Lesson 3 - Structured And Time Series Data](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson3.ipynb)
+* [Lesson 4 - Sentiment Classification](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb)
+* [Lesson 5 - Recommendation Using Deep Learning](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson5.ipynb)
+* [Lesson 6 - Language Modeling With RNNs](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson6.ipynb)
+* [Lesson 7 - Convolutional Networks In Detail](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson7.ipynb)
+
+#####Deep Learning With Keras
+* [Part 1 - Structured And Time Series Data](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/StructuredTimeSeries.ipynb)
+* [Part 2 - Convolutional Networks](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/ConvolutionalNetworks.ipynb)
+* [Part 3 - Recommender Systems](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecommenderSystems.ipynb)
+* [Part 4 - Recurrent Networks](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecurrentNetworks.ipynb)
+* [Part 5 - Anomaly Detection](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/AnomalyDetection.ipynb)
+* [Part 6 - Generative Adversarial Networks](http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/GenerativeAdversarialNetworks.ipynb)
+
+
 

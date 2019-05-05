@@ -196,5 +196,10 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 >  [Part 4: Automation Overview](https://colab.research.google.com/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-4.ipynb)
 
 - [Understanding evolutionary strategies and covariance matrix adaptation](https://colab.research.google.com/github/lmarti/evolutionary-computation-course/blob/master/AEC.04%20-%20Evolutionary%20Strategies%20and%20Covariance%20Matrix%20Adaptation.ipynb), from the [Advanced Evolutionary Computation: Theory and Practice](http://nbviewer.ipython.org/github/lmarti/evolutionary-computation-course/tree/master/) course by [Luis Martí](http://lmarti.com).
+-[Code Katas in Python](https://colab.research.google.com/github/gudnm/codekatas/blob/master/codekatas.ipynb), a collection of algorithmic and data structure exercises covering search and sorting algorithms, stacks, queues, linked lists, graphs, backtracking and greedy problems.
 
+## Statistics, Machine Learning and Data Science
+
+- [Python Data Science Handbook Supplemental Materials](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
+- 
 

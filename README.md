@@ -181,8 +181,17 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Dopamine: How to visualize Dopamine data in Tensorboard from Colab](https://colab.research.google.com/github/google/dopamine/blob/master/dopamine/colab/tensorboard.ipynb) by Pablo Samuel Castro
 - [The AdaNet Algorithm](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/adanet_objective.ipynb) by Charles Weill
 
-###Interesting Notebooks from A gallery of interesting Jupyter Notebooks
+### Interesting Notebooks from 'A gallery of interesting Jupyter Notebooks'
 
 #### Programming and Computer Science
 
 - [Automata and Computability using Jupyter](https://colab.research.google.com/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
+
+- [Introduction to Programming (using Python)](https://colab.research.google.com/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb), an entire introductory Python course written by [Eric Matthes](http://peak5390.wordpress.com/about). [This post](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/) explains the educational context in an Alaskan high school where Eric is a teacher.
+
+- [Numeric Computing is Fun](https://github.com/mikkokotila/jupyter4kids) A series of notebooks created to help educate aspiring computer programmers and data scientists of all ages with no previous programming experience.
+-- [Part 1: Introduction](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb)
+-- [Part 2 : Prime Numbers](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb)
+-- [Part 3 : Algorithms Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-3.ipynb)
+-- [Part 4: Automation Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-4.ipynb)
+

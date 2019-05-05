@@ -190,8 +190,8 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Introduction to Programming (using Python)](https://colab.research.google.com/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb), an entire introductory Python course written by [Eric Matthes](http://peak5390.wordpress.com/about). [This post](http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/) explains the educational context in an Alaskan high school where Eric is a teacher.
 
 - [Numeric Computing is Fun](https://github.com/mikkokotila/jupyter4kids) A series of notebooks created to help educate aspiring computer programmers and data scientists of all ages with no previous programming experience.
-- *  [Part 1: Introduction](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb)
-- *  [Part 2 : Prime Numbers](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb)
-- *  [Part 3 : Algorithms Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-3.ipynb)
-- *  [Part 4: Automation Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-4.ipynb)
+> [Part 1: Introduction](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-1.ipynb)
+>  [Part 2 : Prime Numbers](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-2.ipynb)
+>  [Part 3 : Algorithms Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-3.ipynb)
+>  [Part 4: Automation Overview](https://nbviewer.jupyter.org/github/mikkokotila/jupyter4kids/blob/master/notebooks/numerical-computing-is-fun-4.ipynb)
 

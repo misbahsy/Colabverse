@@ -164,3 +164,25 @@ These are a few of the notebooks from Google's online Machine Learning course. S
 - [Intro to Neural Networks](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/intro_to_neural_nets.ipynb)
 - [Colab basics: Cells](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/basic_features_overview.ipynb)
 - [Model Validation](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/validation.ipynb)
+- [Aligned Feature Visualization Interpolation](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/aligned_interpolation.ipynb) by Chris Olah, Alexander Mordvintsev, Ludwig Schubert
+- [Negative Neurons](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/neuron_diversity.ipynb) by Chris Olah, Alexander Mordvintsev, Ludwig Schubert
+- [Interaction Between Neurons](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/neuron_interaction.ipynb) by Chris Olah, Alexander Mordvintsev, Ludwig Schubert
+- [Activation Grid Visualizations](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/ActivationGrid.ipynb) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [BigGAN](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
+- [Sparse Data and Embeddings](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/intro_to_sparse_data_and_embeddings.ipynb)
+- [Quick Introduction to pandas](https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/mlcc/intro_to_pandas.ipynb)
+- [Build a linear model with Estimators](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/estimators/linear.ipynb)
+- [Channel Attribution](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/AttrChannel.ipynb) by Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev
+- [Building a text classification model with TF Hub](https://colab.research.google.com/github/tensorflow/workshops/blob/master/extras/tfhub-text/movie-classification.ipynb)
+- [Mitigating Unwanted Biases](https://colab.research.google.com/notebooks/ml_fairness/adversarial_debiasing.ipynb) by Andrew Zaldivar, Ben Hutchinson, Blake Lemoine, Brian Zhang, Margaret Mitchell
+- [Explore overfitting and underfitting](https://colab.research.google.com/github/tensorflow/models/blob/master/samples/core/tutorials/keras/overfit_and_underfit.ipynb)
+- [Adversarial Interpretability Introduction](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/misc/adversarial_activation_grids.ipynb)
+- [xy2rgb.ipynb](https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb) by Alexander Mordvintsev
+- [Dopamine: How to visualize Dopamine data in Tensorboard from Colab](https://colab.research.google.com/github/google/dopamine/blob/master/dopamine/colab/tensorboard.ipynb) by Pablo Samuel Castro
+- [The AdaNet Algorithm](https://colab.research.google.com/github/tensorflow/adanet/blob/master/adanet/examples/tutorials/adanet_objective.ipynb) by Charles Weill
+
+###Interesting Notebooks from A gallery of interesting Jupyter Notebooks
+
+#### Programming and Computer Science
+
+- [Automata and Computability using Jupyter](https://colab.research.google.com/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]

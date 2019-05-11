@@ -1,40 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Colabverse
 
-You can use the [editor on GitHub](https://github.com/misbahsy/colabverse/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##### Home of the most interesting colab notebooks on the internet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this repository is to collect the most interesting colab notebooks in all fields. A combination of individual notebooks, textbooks, and courses are part of the list. Feel free to add more interesting colab notebooks. Or for any suggestions, reach out to me at misbah.sy(at)gmail.com
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is Colab?
+Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 
-```markdown
-Syntax highlighted code block
+With Colaboratory you can write and execute code, save and share your analyses, and access powerful computing resources, all for free from your browser.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/misbahsy/colabverse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Welcome notebook](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 
 ### Working with Notebooks in Colaboratory
